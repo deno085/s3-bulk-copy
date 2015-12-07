@@ -1,0 +1,10 @@
+{
+    "name": "Deno085/s3-bulk-copy",
+    "description": "PHP Class for performing bulk S3 copy/get/put operations",
+    "license": "proprietary",
+
+    "require": {
+        "aws/aws-sdk-php": "~2.7.0"
+    }
+
+}
